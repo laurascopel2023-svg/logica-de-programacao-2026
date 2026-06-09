@@ -1,0 +1,6 @@
+import leia from 
+
+
+var  teste = leia.question("INFORME SU NOME!");
+
+console.log("SEU NOME É : " + teste);
